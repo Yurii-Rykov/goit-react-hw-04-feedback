@@ -1,0 +1,10 @@
+.feedback_wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+.feedback_btn {
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    padding:5px 20px;
+}
